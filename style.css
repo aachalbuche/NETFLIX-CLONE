@@ -132,7 +132,6 @@ body{
     /* padding-left: 5%; */
     width: 34rem;
     height: 58%;
-    /* height: 54%; */
     grid-column:2/2;
     grid-row:1/2;
     z-index: -1;
